@@ -1,0 +1,11 @@
+{
+  "projectId": "nezha-cannot-fly",
+  "displayName": "哪吒不会飞",
+  "designResolution": {
+    "width": 750,
+    "height": 1334,
+    "orientation": "portrait"
+  },
+  "targetPlatform": "wechatgame",
+  "gameplayVersion": "v1"
+}
